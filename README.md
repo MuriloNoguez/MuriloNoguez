@@ -1,16 +1,16 @@
-<h1 align="center">👋 Olá, eu sou o Murilo!</h1>
+<h1 align="center">👋 Hi, I'm Murilo!</h1>
 
 <p align="center">
-  Desenvolvedor <strong>Full Stack</strong> | Estudante de <strong>Análise e Desenvolvimento de Sistemas</strong> no Senac RS <br/>
-  Apaixonado por tecnologia, inovação e em transformar ideias em soluções reais 🚀
+  <strong>Full Stack Developer</strong> | Student of <strong>Systems Analysis and Development</strong> at Senac RS <br/>
+  Passionate about technology, innovation, and turning ideas into real solutions 🚀
 </p>
 
 ---
 
-## 🧑‍💻 Sobre mim
-- 🎓 Atualmente estudando **ADS** no Senac RS  
-- 💡 Interesse em **desenvolvimento web, mobile e sistemas escaláveis**  
-- 🌱 Sempre aprendendo novas tecnologias e boas práticas  
+## 🧑‍💻 About Me
+- 🎓 Currently studying **Systems Analysis and Development** at Senac RS  
+- 💡 Interested in **web development, mobile apps, and scalable systems**  
+- 🌱 Always learning new technologies and best practices  
 
 ---
 
