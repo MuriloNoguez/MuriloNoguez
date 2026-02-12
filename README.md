@@ -47,12 +47,6 @@
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?logo=supabase&logoColor=white&style=for-the-badge)
 ![Jest](https://img.shields.io/badge/Jest-C21325?logo=jest&logoColor=white&style=for-the-badge)
 
----
-
-## 📊 GitHub Stats
-<div align="center">
-
-![Stats](https://github-readme-stats.vercel.app/api?username=MuriloNoguez&show_icons=true&theme=radical&count_private=true&cache_seconds=6307200000)
 
 </div>
 
