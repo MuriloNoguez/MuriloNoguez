@@ -24,7 +24,8 @@
 
 ## 🧑‍💻 About Me
 - 🎓 Currently studying **Systems Analysis and Development** at Senac RS  
-- 💡 Interested in **web development, mobile apps, and scalable systems** - 🌱 Always learning new technologies and best practices  
+- 💡 Interested in **web development, mobile apps, and scalable systems**
+- 🌱 Always learning new technologies and best practices  
 
 ---
 
@@ -63,5 +64,6 @@
 Sinta-se à vontade para me chamar para conversarmos sobre projetos ou tecnologia!
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/murilo-da-silva-noguez-732a022b0/)  
-- 📧 Email: **murilodsnoguez@gmail.com** - 📱 WhatsApp: **(53) 99978-5809**
+- 📧 Email: **murilodsnoguez@gmail.com**
+- 📱 WhatsApp: **(53) 99978-5809**
 - 🌐 Site: [murilonoguez.com.br](https://murilonoguez.com.br)
