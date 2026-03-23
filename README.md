@@ -79,7 +79,7 @@
 
 ##
 <div align="center">
-  <img src="https://pokereadme.murilonoguez.com.br/api?user=MuriloNoguez&pokes=1,4,7,25,133,150" alt="My Pokémon Team" />
+  <img src="https://pokereadme.murilonoguez.com.br/api?user=MuriloNoguez&pokes=350,212,254,282,306,94" alt="My Pokémon Team" />
 </div>
 
 ###
