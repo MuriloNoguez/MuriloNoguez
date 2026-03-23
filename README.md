@@ -78,12 +78,11 @@
 </div>
 
 ##
-
-![My Pokémon Team](https://pokereadme.murilonoguez.com.br/api?user=MuriloNoguez&pokes=1,4,7,25,133,150)
+<div align="center">
+  <img src="https://pokereadme.murilonoguez.com.br/api?user=MuriloNoguez&pokes=1,4,7,25,133,150" alt="My Pokémon Team" />
+</div>
 
 ###
-
-
 
 ###
 
