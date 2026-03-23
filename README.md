@@ -79,9 +79,8 @@
 
 ##
 <div align="center">
-  <img src="https://pokereadme.murilonoguez.com.br/api?user=Your-User&pokes=350,212,254,282,306,94" alt="My Pokémon Team" />
+  <img src="https://pokereadme.murilonoguez.com.br/api?user=YOUR_USERNAME&pokes=350,212,94,254,306,282" alt="My Pokémon Team" />
 </div>
-
 ###
 
 ###
