@@ -13,7 +13,7 @@
 ###
 
 <div align="center">
-  <img height="180em" src="https://status.murilonoguez.com.br/api?username=MuriloNoguez&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true "/>
+  <img height="180em" src="https://status.murilonoguez.com.br/api?username=MuriloNoguez&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
 </div>
 
 ###
