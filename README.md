@@ -8,9 +8,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=480&lines=Full+Stack+Developer;JavaScript+%7C+TypeScript+%7C+Python;React+%2B+Next.js+%2B+Node.js;Welcome+to+my+profile!" alt="Typing Full Stack Developer" />
 </div>
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=MuriloNoguez&color=36BCF7&style=for-the-badge&label=PROFILE+VIEWS" alt="profile views" />
-</div>
 
 ###
 
